@@ -2,6 +2,8 @@
 - 核心：以人为本，做用户的代言人（而不是代表人）
 - 关键词：体验、需求、设计
 
+![mp1](https://github.com/freecodecampvividboy/PM/blob/master/pm1.jpg) ![pm2](https://github.com/freecodecampvividboy/PM/blob/master/pm2.jpg)
+
 ### 以用户为中心的设计过程
 |步骤|操作|英文|
 |:-:|:-:|:-:|
@@ -29,10 +31,28 @@
 |中间|市场需求(MRD)|目标市场分析、目标用户分析(主要和运营模式相关,对商务、运营、市场人员)|[MRD模板](http://www.woshipm.com/discuss/111117.html)|
 |最后|产品需求(PRD)|详细功能说明、业务流程、业务规则、界面原型、数据要求(主要和产品需求界面、流程、功能相关,对开发、测试、体验人员|[PRD模板](http://www.woshipm.com/rp/3488031.html)|
 
+### 角色+能力
+> 产品经理角色 + 能力，一言以蔽之是作为用户的代言人：科技与商业的专业人士沟通用户问题和痛点，从科技生态和市场生态中找到解决方案在和科技与商业的专业人士沟通用户问题和痛点时，很大的时间是要去过滤想法，过滤想法的准則及工具，IDEO推的是三方面考量，从而此设计思维更被应用在创业及设计的实践上
+
+|术语|简称|
+|:-:|:-:|
+|最小可行性产品|MVP|
+|最小可行性(平台)生态|MVE|
+|商业可行性的准则|Vibility|
+|用户体验的准则|Desirability|
+|科技可行性的准则|Fesibility|
+|精益创业|lean start-up|
+|设计冲刺|design sprint|
+
+
+
+
+### 国外产品经理案例
+
 
 
 
 
 ### 文章中部分参考
 1. [产品经理三大文档--BRD、MRD、PRD](https://www.jianshu.com/p/44df36436aa0)
-2. 
+2. [不同阶段的产品经理面试时，如何做自我介绍？](https://baijiahao.baidu.com/s?id=1661652125035359802&wfr=spider&for=pc)
