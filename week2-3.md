@@ -1,10 +1,7 @@
 # week2-3 报告阅读及分析
 > 
 详见[报告](https://github.com/chen7179/PM/blob/master/18_2020%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%99%BA%E8%83%BD%E8%AF%AD%E9%9F%B3%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)
-
-![语音的优势]（https://github.com/chen7179/PM/blob/master/yy1.png）
-
----------
+![语音优势](https://github.com/chen7179/PM/blob/master/yy1.png)
 
 - **要解决什么问题:** 如今音视频的快速发展，同样也带来了垃圾信息审核难题。一些app因语音传播违规信息下架且造成了网络环境的污染。
 - **愿景：**以人工智能技术，大数据等作为支撑，提供AI语音识别服务，审核因疏漏造成的违规语音，以达到净化网络环境的效果。识别声音特征，拦截违法违规音频。
