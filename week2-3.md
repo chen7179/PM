@@ -1,5 +1,6 @@
 # week2-3 报告阅读及分析
-> 详见[报告](https://github.com/chen7179/PM/blob/master/18_2020%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%99%BA%E8%83%BD%E8%AF%AD%E9%9F%B3%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf) 
+> 
+详见[报告](https://github.com/chen7179/PM/blob/master/18_2020%E5%B9%B4%E4%B8%AD%E5%9B%BD%E6%99%BA%E8%83%BD%E8%AF%AD%E9%9F%B3%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)
 
 ![语音的优势]（https://github.com/chen7179/PM/blob/master/yy1.png）
 
